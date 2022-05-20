@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working as a Web Developper and I'm currently learning more about Rust and WASM
+I'm currently working as a Web Developper and I'm learning more about Rust and WASM
 
 <!--
 **louisjj/louisjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
